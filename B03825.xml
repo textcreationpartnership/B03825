@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for a covetous miser: or, Comfort to a contented minde. Being a serious discourse between a rich miser in the west country, and a poor husband-man, as they accidentally met upon the way: their dispute being so tedious, and of so great concernment, a neighbour of theirs hearing them, took pains to write down the subject of their discourse, after he had heard what had befallen to the rich-man; he sent a letter to a friend of his in London, and desired that he would get it printed for an example to all unthankful men. to [sic] the tune of, the Fair angel of England; or, the Tyrant</title>
+            <author>Jordan, Thomas, 1612?-1685?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1677?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03825</idno>
+            <idno type="STC">Wing J1044</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[159]</idno>
+            <idno type="EEBO-CITATION">99887200</idno>
+            <idno type="PROQUEST">ocm99887200</idno>
+            <idno type="VID">181908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181908)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[159])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for a covetous miser: or, Comfort to a contented minde. Being a serious discourse between a rich miser in the west country, and a poor husband-man, as they accidentally met upon the way: their dispute being so tedious, and of so great concernment, a neighbour of theirs hearing them, took pains to write down the subject of their discourse, after he had heard what had befallen to the rich-man; he sent a letter to a friend of his in London, and desired that he would get it printed for an example to all unthankful men. to [sic] the tune of, the Fair angel of England; or, the Tyrant</title>
+                  <author>Jordan, Thomas, 1612?-1685?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W[illiam]. Thackeray, T[homas]. Passinger and W[illiam]. VVhitwood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1670-1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.J.</note>
+                  <note>Verse: "Come listen kind neighbours with heart and good ..."</note>
+                  <note>Date, place of publication and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181908:1"/>
+            <!-- PDF PAGE 14 -->
+            <head>A <hi>Looking-glaſs for a covetous Miſter:</hi>
+            </head>
+            <head>OR, Comfort to a Contented minde.</head>
+            <argument>
+               <p>Being a ſerious diſcourſe between a Rich Miſer in the Weſt Country, and a poor Husband-man, as they accidentally, met upon the way: Their diſpute being ſo tedious, and of ſo great concernment, A neigh<g ref="char:EOLhyphen"/>bour of theirs hearing them, took pains to write down the ſubject of their diſcourſe, after he had heard what had befallen to the Rich-man; He ſent a Letter to a friend of his in <hi>London,</hi> and deſired that he would get it Printed for an example to all unthankful men.</p>
+            </argument>
+            <opener>to the tune of, <hi>the Fair Angel of England;</hi> or, <hi>the Tyrant</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme liſten kind neighbours with heart and good will,</l>
+               <l>I promiſe you truely I think no man ill,</l>
+               <l>He onely inform you whay news I do hear,</l>
+               <l>By Letteres at <hi>London</hi> out of <hi>Devonſhire.</hi>
+               </l>
+               <l>There was a rich miſer that hoarded up grain.</l>
+               <l>Like wiſe a poor Husbandman honeſt and plain</l>
+               <l>The miſer with ſorrow ddid look pail and wan,</l>
+               <l>And thus to diſputing this Couple began.</l>
+            </lg>
+            <sp>
+               <speaker>The Miſer.</speaker>
+               <lg>
+                  <l>VVell met honeſſ neighbor the Miſer did ſay,</l>
+                  <l>VVhat is the beſt News at the Market to day;</l>
+                  <l>How did they ſell Barley, their Wheat, &amp; their Rye?</l>
+                  <l>Declare the truth to me without any lye:</l>
+                  <l>For I was ſore troubled laſt night in my ſleep,</l>
+                  <l>With dreaming of matters which made me to wéep,</l>
+                  <l>I thought my whole Barn full of Barley and Wheat</l>
+                  <l>The Rats, Mice, and Vermine, did ſéem for to eat.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Husband-man.</speaker>
+               <lg>
+                  <l>Séed Wheat gave thrée ſhillings a ſtrike I proteſt,</l>
+                  <l>But this I'le aſſure you it was of the beſt;</l>
+                  <l>The beſt Rye i'th market gave not half a crown,</l>
+                  <l>Which made ſome rich Miſers to fret and to frown,</l>
+                  <l>For five groats and two pence good Barley was ſold;</l>
+                  <l>To ſpeak the plain truth out a man may be bold,</l>
+                  <l>Therefore be contented good neighbour with me,</l>
+                  <l>Praiſe God and be thankful ſuch plenty ſo ſée.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Miſer.</speaker>
+               <lg>
+                  <l>It grives me to thing what a Trade we ſhall drive.</l>
+                  <l>Our Lands and our livings will not make us thrive,</l>
+                  <l>The reaſon of this now I will tell you plan</l>
+                  <l>Becauſe of the cheapneſſe of all kinde of Grain.</l>
+                  <l>Ere I will ſell Barley two thillings a ſtrike,</l>
+                  <l>I now am reſolved to throw plough i'th dike;</l>
+                  <l>If Grain hold ſo cheap as plainly appears,</l>
+                  <l>I ſhall be undone within two or three years.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Husband-man</speaker>
+               <lg>
+                  <l>Thou Covetous wiſer didſt thou ever hear,</l>
+                  <l>A Farmer undone in a plentiful year,</l>
+                  <l>You know how I lived and paid a great Rent,</l>
+                  <l>Sold Barley for fifteen and yet was concent,</l>
+                  <l>In plentful <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaſons Gods mercy is ſhown,</l>
+                  <l>He ſends the poor Ploughman two Bvſhels for one,</l>
+                  <l>And great ſtore of Cattel with fodder and ſtuffe</l>
+                  <l>He that is contented hath treaſure enough.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſer.</speaker>
+               <lg>
+                  <l>If troubles me ſadly this Tale ſhould be told,</l>
+                  <l>I've Corn lying by me that's full thrée years old.</l>
+                  <l>They once bade ſixe ſhillings a ſtrike for't I think,</l>
+                  <l>But now I'me perſwaded that Barley doth ſtink</l>
+                  <l>Yet wée<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l thraſh no more then our family ſpends,</l>
+                  <l>I hope that next year it will make us amends</l>
+                  <l>If Grain holds ſo Cheap as it plainly appears,</l>
+                  <l>I'le ſell no more Corn yet this two or thrée eears.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Huband-man.</speaker>
+               <lg>
+                  <l>The Rich-man i'th Goſpel ſpake, like a childe.</l>
+                  <l>He'd pull down his Barnes that he larger might build</l>
+                  <l>Whereby he might ſollace himſelf with delight.</l>
+                  <l>Though his Soul was required of him that ſame night</l>
+                  <l>But I am contented I promiſe you true,</l>
+                  <l>When corn will but laſt until God ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edeth new;</l>
+                  <l>Though miſers do murmur thier grain they can't raiſe</l>
+                  <l>Let poor men be thankful and give God the praiſe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>miſer.</speaker>
+               <lg>
+                  <l>Example by <hi>Joſeph</hi> in <hi>Egyp<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> wh have</l>
+                  <l>That in time of plenty men may their Corn ſave.</l>
+                  <l>For fear leaſt a Famine ſhould be in the Land,</l>
+                  <l>That we may have ſtore-houſes then at command</l>
+                  <l>To furniſh ſuch people as then comes to buy,</l>
+                  <l>You know that wiſe mon ſuch things will deny,</l>
+                  <l>If corn hold ſo cheap as it plainly appears,</l>
+                  <l>I ſhall be undone within two or three years,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Husband-man</speaker>
+               <lg>
+                  <l>You know that wiſe <hi>Salomon</hi> this doth rehearſe,</l>
+                  <l>that man that kéeps back his corn, people will curſe,</l>
+                  <l>But he that with chearfulneſſe ſelleth his grain</l>
+                  <l>A bleſſing upon him will ſurely remain:</l>
+                  <l>But ſome men to covetouſneſs are inclin'd.</l>
+                  <l>O're they<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d bate a farthing they<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſee poor men pyn'd,</l>
+                  <l>though miſers do murmur their grain they can't raiſe,</l>
+                  <l>Let poor men be thankful and give God the praiſe.</l>
+               </lg>
+               <lg>
+                  <l>But mark what befel to this covetous Moam,</l>
+                  <l>His houſe it was robbed before he got home,</l>
+                  <l>His cheſts were broke open, his ſervants were bound</l>
+                  <l>He loſt in one hour two hundred pound,</l>
+                  <l>This ſure was a Judgement his neighbors did guſs</l>
+                  <l>Becauſe he theſe words did ſo often expreſſe</l>
+                  <l>If Grain hold ſo cheap as it plainly aprears</l>
+                  <l>He ſhould be undone within two or three years.</l>
+               </lg>
+               <lg>
+                  <l>Concluding my ſtory mark well what I ſay,</l>
+                  <l>The poor of this Nation are bound for to pray.</l>
+                  <l>That God would be pleaſed to help them at néed.</l>
+                  <l>That they may have bread their poor Children to féed</l>
+                  <l>For Charity's cold enough as 'tis well known.</l>
+                  <l>Good houſe keeping like wiſe is now baad grown,</l>
+                  <l>Take this admonition from me as a friend,</l>
+                  <l>Praiſe God and be thankful that plenty doth ſend.</l>
+               </lg>
+            </sp>
+            <closer>
+               <signed>T. J.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed, for</hi> W. Thackeray, T. Paſſinger <hi>and</hi> W. VVhitwood.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
